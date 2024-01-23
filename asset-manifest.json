@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tache_12_react/static/css/main.9af80f6a.css",
+    "main.js": "/tache_12_react/static/js/main.e1871297.js",
+    "index.html": "/tache_12_react/index.html",
+    "main.9af80f6a.css.map": "/tache_12_react/static/css/main.9af80f6a.css.map",
+    "main.e1871297.js.map": "/tache_12_react/static/js/main.e1871297.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9af80f6a.css",
+    "static/js/main.e1871297.js"
+  ]
+}
