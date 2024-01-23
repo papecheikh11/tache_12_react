@@ -27,7 +27,7 @@ const ThemeChanger = () => {
   return (
     <div>
       <form onSubmit={handleThemeChange} className="mt-3">
-        <div className="d-flex justify-content-center">
+        <div className="d-flex justify-content-center flex-wrap">
           <label className="mx-5">
             Nouvelle Couleur :
             <input
@@ -37,7 +37,7 @@ const ThemeChanger = () => {
             />
           </label>
           <br />
-          <label>
+          <label className="mx-5">
             Nouvelle Police :
             <input
               type="text"
