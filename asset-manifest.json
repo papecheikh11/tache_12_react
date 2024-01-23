@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tache_12_react/static/css/main.9af80f6a.css",
-    "main.js": "/tache_12_react/static/js/main.0557306b.js",
+    "main.js": "/tache_12_react/static/js/main.ef0fd9db.js",
     "index.html": "/tache_12_react/index.html",
     "main.9af80f6a.css.map": "/tache_12_react/static/css/main.9af80f6a.css.map",
-    "main.0557306b.js.map": "/tache_12_react/static/js/main.0557306b.js.map"
+    "main.ef0fd9db.js.map": "/tache_12_react/static/js/main.ef0fd9db.js.map"
   },
   "entrypoints": [
     "static/css/main.9af80f6a.css",
-    "static/js/main.0557306b.js"
+    "static/js/main.ef0fd9db.js"
   ]
 }
